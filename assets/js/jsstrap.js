@@ -1,5 +1,5 @@
 ﻿var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,4684594,4,2,120,55,00011111']);
+_Hasync.push(['Histats.start', '1,4712585,4,2,120,55,00011111']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
