@@ -18,9 +18,9 @@ if (window.location.href.indexOf("klinik") > -1 || window.location.href.indexOf(
 jQuery('.art-content').css({'position':'fixed','top':'-10000px',});
 jQuery('div[link]').each(function(){jQuery(this).css({'background':"url('"+jQuery(this).attr('link')+"')center / contain no-repeat",'height':'300px','margin':'5px auto 5px auto','max-width':'600px',})});
 
-jQuery('div.link').each(function(){jQuery(this).wrap("<a href='https://wa.me/6281312383338?text=Mau pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ'></a>");});
+jQuery('div.link').each(function(){jQuery(this).wrap("<a href='https://wa.me/6281312383338?text=Mau pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ pembayaran CASH'></a>");});
 jQuery('#modal-1').modal(); 
-setTimeout(function(){location.href="https://wa.me/6281312383338?text=Mau pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ"},30000 ); 
+setTimeout(function(){location.href="https://wa.me/6281312383338?text=Mau pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ pembayaran CASH"},30000 ); 
 
 
   		  
